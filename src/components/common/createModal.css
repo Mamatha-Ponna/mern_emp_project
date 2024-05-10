@@ -1,0 +1,84 @@
+Form {
+  border: 1px solid;
+  margin: 10px;
+  border-radius: 25px;
+}
+.btn {
+  margin: 3% 30%;
+  width: 40%;
+}
+.FormValidate{
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.formGroup{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin:10px;
+}
+.NameLabel{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-align: center;
+  margin-bottom: 10px;
+  width: 50px;
+}
+.InputTag{
+  height: 40px;
+  flex: 0 0 450px;
+  padding: 2px 20px;
+
+}
+.genderFormGroup{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+  margin-left: 60px;
+}
+.genderInput{
+  display: flex;
+  flex-direction: row;
+  margin-right: 20rem;
+}
+/* .nameInput {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.ColInput {
+  margin: 2% 10%;
+  width: 70%;
+} */
+/* .labelName {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    text-align: right;
+    width: 700px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+.InputTag {
+  height: 40px;
+  flex: 0 0 380px;
+  margin-left: 30px;
+}
+.genderInput{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.radioInput{
+  justify-content: flex-end;
+    text-align:left;
+    width: 700px;
+    line-height: 26px;
+    margin-bottom: 10px;
+    margin-left: 1rem;
+}
+.labelGender{
+  flex: 0 0 70px;
+  margin-left: 30px;
+} */

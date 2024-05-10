@@ -1,0 +1,27 @@
+.LoginPage{
+    font-size: larger;
+    text-shadow: 2px;
+}
+.h1Tag{
+    background-color: yellow;
+    height: 50px;
+}
+.FormSubmit{
+    width: 45rem;
+    height: 20rem;
+    border: 1px solid black;
+    margin:5rem 10rem;
+    border-radius: 5px ;
+    align-items: center;
+}
+.FormGroup{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 25rem;
+    margin: 2rem 10rem;
+    float: left;
+}
+.FormControl{
+    margin-left: 30px;
+}

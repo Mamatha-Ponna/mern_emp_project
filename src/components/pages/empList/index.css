@@ -1,0 +1,43 @@
+.h4 {
+  background-color: yellow;
+}
+.topMenu {
+  margin-left: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.emp_Table {
+  border: 1px solid black;
+}
+.searchInput {
+  margin-left: 60%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5px;
+}
+.inputSearch {
+  border: 1px solid gray;
+  border-radius: 15px;
+  width: 500px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 5px;
+  
+}
+
+tr th {
+  font-size: 18px;
+  padding: 12px;
+  border: 1px solid #eeeeee;
+  text-align: left;
+  background-color: rgba(217, 221, 146, 0.2);
+}
+
+tr td {
+  border: 1px solid #eeeeee;
+  text-align: center;
+}
